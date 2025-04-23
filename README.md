@@ -1,0 +1,1 @@
+`http://${sessionPlantIP}:${sessionPortNumber}/WTGwebservice/wtg.asmx/GethttpTempDataCMS?FromDateTime=` + Dtfrom + "&EndDateTime=" + DtTo + "&WTGNO=" + wtg + "&Token=MS-652&ID=" + serviceID + "&Type=1";
